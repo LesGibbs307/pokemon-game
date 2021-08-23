@@ -1,0 +1,18 @@
+.Home .Questions button {
+    background: #3A5DA8;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.Questions {
+    border: 1px solid;
+    margin: 30px auto;
+    max-width: 1200px;
+    padding: 16px;
+}
+
+.Home .Questions button:hover{
+    background: #FFCB04;
+    color: #000;
+}
