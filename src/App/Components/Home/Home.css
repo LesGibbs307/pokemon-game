@@ -26,3 +26,9 @@ h1 {
     width: 450px;
     padding: 12px 14px;
 }
+
+@media screen and (max-width: 480px) {
+    .Home button, .Home button:hover {
+        width: 100%;
+    }
+}
