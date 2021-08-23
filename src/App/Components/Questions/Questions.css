@@ -16,3 +16,14 @@
     background: #FFCB04;
     color: #000;
 }
+
+@media only screen and (max-width: 500px) {
+    .Home .Questions button, .Home .Questions button:hover {
+        width: 100%;
+        padding: 10px 12px;
+        background: #3A5DA8;
+        color: #fff;
+    }
+
+    
+}

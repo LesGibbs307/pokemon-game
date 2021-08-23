@@ -44,7 +44,7 @@ function Questions(props) {
                 interval={interval}
             />
             <div>
-                <img src={props.image} />
+                <img className="img-fluid" src={props.image} />
             </div>
 
             {                
